@@ -1,0 +1,15 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 2 - Q2
+
+const textNumber = "12";
+
+const number = Number(textNumber);
+
+console.log(number + 5);
+
+const value = 7;
+
+const text = String(value);
+
+console.log(text + "3");
