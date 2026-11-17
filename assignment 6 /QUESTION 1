@@ -1,0 +1,12 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 6 - Q1
+
+const student = {
+    name: "Rohan",
+    marks: [70, 80]
+};
+
+const jsonText = JSON.stringify(student);
+
+console.log(jsonText);
