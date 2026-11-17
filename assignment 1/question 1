@@ -1,0 +1,17 @@
+<!-- Name: Gayatri Rai
+     Roll No.: 2510303207
+     Assignment 1 - Q1 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>First JavaScript</title>
+</head>
+<body>
+
+<script>
+    console.log("Hello from the script");
+</script>
+
+</body>
+</html>
