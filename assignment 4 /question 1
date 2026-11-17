@@ -1,0 +1,9 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 4 - Q1
+
+function greet(name) {
+    return "Hello, " + name;
+}
+
+console.log(greet("Asha"));
