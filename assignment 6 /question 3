@@ -1,0 +1,13 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 6 - Q3
+
+const jsonText = '{name: Rohan}';
+
+try {
+    const data = JSON.parse(jsonText);
+    console.log(data);
+}
+catch (error) {
+    console.log("Invalid JSON");
+}
