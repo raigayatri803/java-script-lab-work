@@ -1,0 +1,7 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 3 - Q2
+
+for (let i = 1; i <= 5; i++) {
+    console.log(i);
+}
