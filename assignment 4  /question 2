@@ -1,0 +1,9 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 4 - Q2
+
+const square = (number) => {
+    return number * number;
+};
+
+console.log(square(6));
