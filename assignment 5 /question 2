@@ -1,0 +1,9 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 5 - Q2
+
+const subjects = ["Maths", "Science", "English"];
+
+subjects.forEach(function(subject) {
+    console.log(subject);
+});
