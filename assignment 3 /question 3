@@ -1,0 +1,13 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 3 - Q3
+
+let total = 0;
+let number = 1;
+
+while (total <= 20) {
+    total = total + number;
+    number++;
+}
+
+console.log(total);
