@@ -1,0 +1,17 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 12 - Q1
+
+function applyTwice(func, value) {
+
+    return func(func(value));
+
+}
+
+function addTen(number) {
+
+    return number + 10;
+
+}
+
+console.log(applyTwice(addTen, 5));
