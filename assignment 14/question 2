@@ -1,0 +1,13 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 14 - Q2
+
+const timerId = setTimeout(function() {
+
+    console.log("Not shown");
+
+}, 1000);
+
+clearTimeout(timerId);
+
+console.log("Cancelled");
