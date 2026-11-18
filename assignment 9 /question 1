@@ -1,0 +1,25 @@
+<!-- Name: Gayatri Rai
+     Roll No.: 2510303207
+     Assignment 9 - Q1 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Change Text</title>
+</head>
+<body>
+
+<h1 id="heading">Welcome</h1>
+
+<button id="changeButton">Change text</button>
+
+<script>
+    document.getElementById("changeButton").addEventListener("click", function() {
+
+        document.getElementById("heading").textContent = "Button clicked";
+
+    });
+</script>
+
+</body>
+</html>
