@@ -1,0 +1,10 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 10 - Q2
+
+const subjects = ["Maths", "Science", "English"];
+
+const [first, second] = subjects;
+
+console.log(first);
+console.log(second);
