@@ -1,0 +1,13 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 11 - Q3
+
+const school = "Sample College";
+
+function showSchool() {
+
+    console.log("Welcome to " + school);
+
+}
+
+showSchool();
