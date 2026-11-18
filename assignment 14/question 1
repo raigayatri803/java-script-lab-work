@@ -1,0 +1,13 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 14 - Q1
+
+console.log("Start");
+
+setTimeout(function() {
+
+    console.log("Timer done");
+
+}, 0);
+
+console.log("End");
