@@ -1,0 +1,14 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 10 - Q3
+
+const student = {
+    name: "Rohan",
+    roll: 12,
+    marks: 81
+};
+
+const { name, roll } = student;
+
+console.log(name);
+console.log(roll);
