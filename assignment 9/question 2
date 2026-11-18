@@ -1,0 +1,18 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 9 - Q2
+
+function validateForm(name) {
+
+    const errors = [];
+
+    if (name.trim() === "") {
+        errors.push("Name is required");
+    }
+
+    return errors;
+}
+
+console.log(validateForm("Asha"));
+
+console.log(validateForm(""));
