@@ -1,0 +1,17 @@
+// Name: Gayatri Rai
+// Roll No.: 2510303207
+// Assignment 12 - Q2
+
+function formatMarks(marks, callback) {
+
+    return callback(marks);
+
+}
+
+const result = formatMarks(76, marks => {
+
+    return "Marks: " + marks + "/100";
+
+});
+
+console.log(result);
